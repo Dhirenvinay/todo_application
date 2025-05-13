@@ -14,3 +14,15 @@ This is a simple ToDo application built using Flutter. The app allows users to a
 - **Provider**: State management solution for the app
 - **Clean Architecture**: Design pattern for maintaining separation of concerns
 
+## Screenshots
+
+### Home Screen
+![Home Screen](todoscreenshorts/Screenshot_1747159686.png)
+
+### Add Task Screen
+![Add Task Screen](todoscreenshorts/add_task_screen.png)
+
+### Reorder Feature
+![Reorder Feature](todoscreenshorts/reorder_feature.png)
+
+
