@@ -5,7 +5,7 @@ This is a simple ToDo application built using Flutter. The app allows users to a
 ## Features
 - Add new tasks to the list
 - Mark tasks as complete with a checkbox
-- Reorder tasks in the list
+- Reorder tasks in the list for reorder just long press and and drag
 - Add Dismissible widget to swipe right to dismiss/delete the task
 
 ## Tech Stack
