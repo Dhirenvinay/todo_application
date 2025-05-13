@@ -21,7 +21,7 @@ This is a simple ToDo application built using Flutter. The app allows users to a
 <p align="center">
   <img src="todoscreenshorts/Screenshot_1747159686.png" alt="Home Screen" width="200"/>
   <img src="todoscreenshorts/Screenshot_1747159712.png" alt="Add Task Screen" width="200"/>
-  <img src="todoscreenshorts/Screenshot_1747159789.png" alt="Reorder Feature" width="200"/>
+  <img src="todoscreenshorts/Screenshot_1747159789.png" alt="Add Task Screen" width="200"/>
 
    <img src="todoscreenshorts/Screenshot_1747159793.png" alt="Home Screen" width="200"/>
   <img src="todoscreenshorts/Screenshot_1747159799.png" alt="Add Task Screen" width="200"/>
