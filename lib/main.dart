@@ -18,7 +18,6 @@ class TaskApp extends StatelessWidget {
   const TaskApp({super.key});
 
   static const Color primaryColor = Colors.teal;
-  // static const Color lightColor = Color(0xFFE3E6FA); // light variant
   static const Color onPrimaryColor = Colors.white;
 
   @override
@@ -27,18 +26,18 @@ class TaskApp extends StatelessWidget {
       title: 'Task List',
       theme: ThemeData(
         primaryColor: primaryColor,
-        scaffoldBackgroundColor: Colors.white,
+        scaffoldBackgroundColor: onPrimaryColor,
         colorScheme: ColorScheme(
           primary: primaryColor,
-          onPrimary: Colors.white,
-          secondary: Colors.white,
+          onPrimary: onPrimaryColor,
+          secondary: onPrimaryColor,
           onSecondary: primaryColor,
-          surface: Colors.white,
+          surface: onPrimaryColor,
           onSurface: Colors.black,
-          // background: Colors.white,
+          // background: onPrimaryColor,
           // onBackground: Colors.black,
           error: Colors.red,
-          onError: Colors.white,
+          onError: onPrimaryColor,
           brightness: Brightness.light,
         ),
         appBarTheme: const AppBarTheme(
